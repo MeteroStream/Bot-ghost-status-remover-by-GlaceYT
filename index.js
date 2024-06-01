@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["**Meteor Stream**"];
+const statusMessages = ["Meteor Stream"];
 
 
 let currentIndex = 0;
